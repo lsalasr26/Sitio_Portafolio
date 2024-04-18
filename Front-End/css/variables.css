@@ -1,0 +1,13 @@
+:root {
+    --black: rgb(0, 0, 0); /* Equivalente RGB de #000000 */
+    --white: rgb(255, 255, 255); /* Equivalente RGB de #FFFFFF */
+    --light-purple: rgb(93, 92, 141); /* Equivalente RGB de #5d5c8d */
+    --dark-purple: rgb(54, 48, 82); /* Equivalente RGB de #363052 */
+    --grey: rgb(245, 245, 245); /* Equivalente RGB de #f5f5f5 */
+    --orange: rgb(249, 148, 23); /* Equivalente RGB de #f99417 */
+    --orange-p: 249, 148, 23; /* Equivalente RGB de #f99417 */
+    
+    --font-inter: 'Inter', sans-serif;
+    --font-rubik: 'Rubik', sans-serif;
+}
+
