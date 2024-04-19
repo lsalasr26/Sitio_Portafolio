@@ -1,7 +1,7 @@
 
 /*Estilos Generales*/
 body {
-    font-family: var(--font-inter), var(--font-rubik);
+    font-family: var(--font-inter);
   }
 
 .container-fluid{
@@ -352,7 +352,7 @@ iframe{
 
 @media screen and (max-width :576px) {
     .nav-logo{
-        max-width: 250px; 
+        max-width: 200px; 
     }
     .hero-principal{
         padding: 0 0;
